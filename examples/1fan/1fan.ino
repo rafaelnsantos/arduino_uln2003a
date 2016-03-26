@@ -9,7 +9,7 @@ void setup()
 
 void loop()
 {
-	fan.setIntensity(85); //sets the exit intensity in %(0 - 100)
+	fan.setIntensity(85); //sets the pwn intensity in %(0 - 100)
 	
 	int fanIntensity = fan.getIntensity(); //returns the intensity in %
 }
