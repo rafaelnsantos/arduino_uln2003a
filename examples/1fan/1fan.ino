@@ -1,6 +1,6 @@
 #include "Dimmer.h"
 
-Dimmer fan(6);
+Dimmer fan(6); //pwn pin connected to arduino
 
 void setup()
 {
@@ -9,6 +9,7 @@ void setup()
 
 void loop()
 {
-	fan.setIntensity(85);
-	int fanIntensity = fan.getIntensity();
+	fan.setIntensity(85); //sets the exit intensity in %(0 - 100)
+	
+	int fanIntensity = fan.getIntensity(); //returns the intensity in %
 }
