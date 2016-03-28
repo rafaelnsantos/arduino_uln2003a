@@ -26,7 +26,7 @@ int Dimmer::getPin(){
 */
 void Dimmer::setIntensity(int i){
 	intensity = i;
-	analogWrite(pin, map(intensity, 0, 100, 0, 255));
+	analogWrite(pin, map(intensity, 0, 100, 0, 250));
 }
 int Dimmer::getIntensity(){
 	return intensity;
