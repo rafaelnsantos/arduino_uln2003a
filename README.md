@@ -16,7 +16,6 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 
 # INSTALLATION
 
-## Library Installation
 ### Windows
 Extract .zip in `My Documents\Arduino\libraries\` folder.
 
@@ -25,6 +24,3 @@ Extract .zip in `~/Arduino/libraries/` folder.
 
 ### Mac
 Extract .zip in `~/Documents/Arduino/libraries/` folder.
-
-## Usage
-Insert `#include "Dimmer.h"` in your .ino file. 
