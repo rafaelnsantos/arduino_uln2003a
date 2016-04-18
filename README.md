@@ -16,6 +16,10 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 
 # INSTALLATION
 
+## Arduino IDE
+![alt tag](https://www.arduino.cc/en/uploads/Guide/LibraryManager_1.png)
+
+## Manual
 ### Windows
 Extract .zip in `My Documents\Arduino\libraries\` folder.
 
