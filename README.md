@@ -17,10 +17,10 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 # INSTALLATION
 
 ### Windows
-	Extract .zip in </b>My Documents\Arduino\libraries\</b> folder.
+	Extract .zip in **My Documents\Arduino\libraries\** folder.
 
 ### Linux
-	Extract .zip in </b>~/Arduino/libraries/</b> folder.
+	Extract .zip in **~/Arduino/libraries/** folder.
 
 ### Mac
-	Extract .zip in </b>~/Documents/Arduino/libraries/</b> folder.
+	Extract .zip in **~/Documents/Arduino/libraries/** folder.
