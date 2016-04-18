@@ -13,3 +13,10 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 # 3 fan
 <a href="https://github.com/rafaelnsantos/arduino_uln2003a/blob/master/examples/threefans/threefans.ino">example code</a>
 ![alt tag](http://i.imgur.com/Q7cRBGo.png)
+
+# installation
+
+- Windows
+	Extract .zip in </b>My Documents\Arduino\libraries\</b> folder.
+
+- Linux 
