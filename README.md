@@ -10,7 +10,7 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 <a href="https://github.com/rafaelnsantos/arduino_uln2003a/blob/master/examples/onefan/onefan.ino">example code</a>
 ![alt tag](http://i.imgur.com/YRO1dDg.png)
 
-### 3 fan
+### 3 fans
 <a href="https://github.com/rafaelnsantos/arduino_uln2003a/blob/master/examples/threefans/threefans.ino">example code</a>
 ![alt tag](http://i.imgur.com/Q7cRBGo.png)
 
