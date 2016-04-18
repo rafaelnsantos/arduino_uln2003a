@@ -20,7 +20,7 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 	Extract .zip in </b>My Documents\Arduino\libraries\</b> folder.
 
 ### Linux
-	xtract .zip in </b>~/Arduino/libraries/</b> folder.
+	Extract .zip in </b>~/Arduino/libraries/</b> folder.
 
 ### Mac
-	 Extract .zip in </b>~/Documents/Arduino/libraries/</b> folder.
+	Extract .zip in </b>~/Documents/Arduino/libraries/</b> folder.
