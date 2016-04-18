@@ -20,11 +20,11 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 ![alt tag](https://www.arduino.cc/en/uploads/Guide/LibraryManager_1.png)
 
 ## Manual
-### Windows
+#### Windows
 Extract .zip in `My Documents\Arduino\libraries\` folder.
 
-### Linux
+#### Linux
 Extract .zip in `~/Arduino/libraries/` folder.
 
-### Mac
+#### Mac
 Extract .zip in `~/Documents/Arduino/libraries/` folder.
