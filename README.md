@@ -17,7 +17,7 @@ designed using <a href="http://fritzing.org/home/">Fritzing</a>
 # INSTALLATION
 
 ## Arduino IDE
-![alt tag](https://www.arduino.cc/en/uploads/Guide/LibraryManager_1.png)
+(http://i.imgur.com/bqUk6ko.png)
 
 ## Manual
 #### Windows
